@@ -22,6 +22,7 @@ Este é um aplicativo móvel desenvolvido em Python usando o Kivy para auxiliar 
 2. Instale as dependências:
    ```bash
    pip install kivy
+   pip install openpyxl
 
 3. Execute o aplicativo:
    ```bash
