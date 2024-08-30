@@ -19,6 +19,23 @@ Este é um aplicativo móvel desenvolvido em Python usando o Kivy para auxiliar 
    git clone https://github.com/seu-usuario/ONG_Animal_Care_App.git
    cd ONG_Animal_Care_App
 
- ##  Instale as dependências:
-  ```bash
-pip install kivy
+2. Instale as dependências:
+   ```bash
+   pip install kivy
+
+3. Execute o aplicativo:
+   ```bash
+   python main.py
+
+4. (Opcional) Empacote para Android:
+   ```bash
+   buildozer -v android debug
+
+## Funcionalidades Futura
+Integração com banco de dados para salvar informações.
+Interface de usuário aprimorada.
+Notificações para doações e novos animais.
+
+## Contribuições
+Contribuições são bem-vindas! Por favor, envie um pull request com suas sugestões e melhorias.
+
