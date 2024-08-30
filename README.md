@@ -18,3 +18,7 @@ Este é um aplicativo móvel desenvolvido em Python usando o Kivy para auxiliar 
    ```bash
    git clone https://github.com/seu-usuario/ONG_Animal_Care_App.git
    cd ONG_Animal_Care_App
+
+ ##  Instale as dependências:
+  ```bash
+pip install kivy
