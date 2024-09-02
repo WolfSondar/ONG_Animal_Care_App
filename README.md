@@ -14,23 +14,18 @@ Este é um aplicativo móvel desenvolvido em Python usando o Kivy para auxiliar 
 - Buildozer (para empacotamento Android)
 
 ## Instalação e Execução
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/ONG_Animal_Care_App.git
-   cd ONG_Animal_Care_App
 
-2. Instale as dependências:
+1. Instale as dependências:
+
+Baixe e instale o arquivo, na pasta raiz clique com o botão direito e "Abrir no Terminal", digite os seguintes códigos abaixo (Um por vez)
+   
    ```bash
    pip install kivy
    pip install openpyxl
 
-3. Execute o aplicativo:
+2. Execute o aplicativo:
    ```bash
    python main.py
-
-4. (Opcional) Empacote para Android:
-   ```bash
-   buildozer -v android debug
 
 ## Funcionalidades Futura
 Integração com banco de dados para salvar informações.
