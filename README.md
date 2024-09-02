@@ -16,14 +16,13 @@ Este é um aplicativo móvel desenvolvido em Python usando o Kivy para auxiliar 
 ## Instalação e Execução
 
 1. Instale as dependências:
+   Baixe e instale o arquivo, na pasta raiz clique com o botão direito e "Abrir no Terminal", digite os seguintes códigos abaixo (Um por vez)
 
-Baixe e instale o arquivo, na pasta raiz clique com o botão direito e "Abrir no Terminal", digite os seguintes códigos abaixo (Um por vez)
-   
    ```bash
    pip install kivy
    pip install openpyxl
 
-2. Execute o aplicativo:
+3. Execute o aplicativo:
    ```bash
    python main.py
 
